@@ -1,0 +1,39 @@
+* {
+    margin:0;
+    box-sizing: border-box;
+}
+#intro, #app, #join, #test, #inspiration {
+    box-shadow: 5px 5px 7px gray;
+    padding:16px;
+    display:block;
+    margin:auto;
+    text-align: justify;
+    width:60vw;
+    height:auto;
+}
+#me {
+    display:block;
+    margin:auto;
+    aspect-ratio: 937/937;
+    margin-bottom:16px;
+    border-radius:50%;
+    width:20vw;
+    height:auto;
+}
+#landingContainer, #landing, #example1Container, #example1, #example2Container, #example2 {
+    display:block;
+    margin:auto;
+    aspect-ratio: 1024/600;
+    padding-top:16px;
+    width:60vw;
+    height:auto;
+}
+h1, h2, h3 {
+    text-align: center;
+}
+h3 {
+    padding:10px;
+}
+h1, h2 {
+    padding:16px;
+}
